@@ -17,9 +17,4 @@ results=data.each_with_object({}) do |(k, v), a|
 end
 results
 #binding.pry
-
-
-
-
-
 end
